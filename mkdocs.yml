@@ -1,0 +1,70 @@
+site_name: 營造業線上申請系統指南
+site_url: https://mydomain.org/mysite/
+theme:
+  name: material
+  language: zh-Hant
+  icon:
+    admonition:
+      <type>: octicons/alert-16 
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+extra_css:
+  - 'css/custom.css'
+  - 'css/simpleLightbox.min.css'
+
+extra_javascript:
+  - 'js/jquery-3.2.1.min.js'
+  - 'js/simpleLightbox.min.js'
+  - 'js/custom.js'
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - markdown.extensions.attr_list
+
+plugins:
+  - search
+  - tags
+
+nav:
+ - 關於線上申請系統: index.md
+ - 如何註冊線上申請系統: register.md
+ - 土木包工業線上申請: 
+    - 籌設許可申請: Contractors_Registration.md
+    - 許可期限展延申請: Contractors_Registration_2.md
+    - 申領登記: receive_manual.md
+    - 變更資本額申請: change_capital.md
+    - 變更地址申請: change_address.md
+    - 縣市移轉(跨縣市變更地址)申請: change_city.md
+    - 變更負責人申請: change_person.md
+    - 變更印鑑申請: change_stamp.md
+    - 變更公司名稱申請: change_name.md
+    - 變更公司組織申請: change_organization.md
+    - 手冊或證書補發(續發)申請: receive_manual_2.md
+    - 複查申請: review.md
+    - 停業、歇業、復業申請: stop_work.md
+ - 綜合營造業線上申請:
+    - 籌設許可申請: Contractors_Registration_3.md
+ - 專業營造業線上申請:
+     - 籌設許可申請: Contractors_Registration_3.md
+    
