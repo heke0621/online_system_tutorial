@@ -4,19 +4,19 @@
 
 1. 進入「營造業線上申請」→「土木包工業登記」→「變更登記」進行申請
     <figure markdown="span">
-    ![Image title](image/25.png){.img-fluid tag=25}
+    ![Image title](../image/25.png){.img-fluid tag=25}
     <figcaption>依圖片進入申請系統</figcaption>
     </figure>
 
 2. 點選「變更登記」按鈕進行申請
     <figure markdown="span">
-    ![Image title](image/26.png){.img-fluid tag=26}
+    ![Image title](../image/26.png){.img-fluid tag=26}
     <figcaption>點選「變更登記」按鈕進行申請</figcaption>
     </figure>
 
 3. 選取須變更地址選項
     <figure markdown="span">
-    ![Image title](image/30.png){.img-fluid tag=30}
+    ![Image title](../image/30.png){.img-fluid tag=30}
     <figcaption>選取須變更地址選項</figcaption>
     </figure>
 
@@ -24,7 +24,7 @@
     * 變更登記申請書需使用系統套印之版本
     * 依實際情況檢附需繳交的文件，不需要上傳的項目請勾選免檢附
     <figure markdown="span">
-    ![Image title](image/31.png){.img-fluid tag=31}
+    ![Image title](../image/31.png){.img-fluid tag=31}
     <figcaption>依要求上傳相關文件(僅限PDF檔)</figcaption>
     </figure>
 

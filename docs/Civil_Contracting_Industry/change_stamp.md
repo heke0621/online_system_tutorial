@@ -4,14 +4,14 @@
 
 1. 進入「營造業線上申請」→「土木包工業登記」→「變更登記」進行申請
     <figure markdown="span">
-    ![Image title](image/25.png){.img-fluid tag=25}
+    ![Image title](../image/25.png){.img-fluid tag=25}
     <figcaption>依圖片進入申請系統</figcaption>
     </figure>
 
 2. 點選「變更登記」按鈕，選擇需變更印鑑種類進行申請
 3. 變更印鑑申請上傳項目
     <figure markdown="span">
-    ![Image title](image/34.png){.img-fluid tag=34}
+    ![Image title](../image/34.png){.img-fluid tag=34}
     <figcaption>「變更印鑑」需上傳資料 (需檢附商業主管機關之變更印鑑核准函文)</figcaption>
     </figure>
 

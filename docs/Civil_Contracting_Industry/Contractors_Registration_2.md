@@ -7,24 +7,24 @@
 
 1. 進入「營造業線上申請」→「土木包工業登記」→「籌設許可」→「許可展延申請」進行申請
     <figure markdown="span">
-    ![Image title](image/19.png){.img-fluid tag=19}
+    ![Image title](../image/19.png){.img-fluid tag=19}
     <figcaption>有關綜合營造業許可展延請至「綜合營造業登記」列表項下進行「許可展延申請」</figcaption>
     </figure>
 
 2. 點選「許可展延申請」按鈕進行案件展延
     <figure markdown="span">
-    ![Image title](image/20.png){.img-fluid tag=20}
+    ![Image title](../image/20.png){.img-fluid tag=20}
     <figcaption>點選「許可展延申請」按鈕進行案件展延</figcaption>
     </figure>
 
 3. 原案件許可文號須至原[許可申請](Contractors_Registration.md)頁面取得
     <figure markdown="span">
-    ![Image title](image/20_1.png){.img-fluid tag=20_1}
+    ![Image title](../image/20_1.png){.img-fluid tag=20_1}
     <figcaption>原案件核准後可取得許可文號及日期</figcaption>
     </figure>
 4. 輸入原案件許可文號、負責人身分證及需展延原因，並按確定送出。
     <figure markdown="span">
-    ![Image title](image/21.png){.img-fluid tag=21}
+    ![Image title](../image/21.png){.img-fluid tag=21}
     <figcaption>點選「許可展延申請」按鈕進行案件展延</figcaption>
     </figure>
 

@@ -6,18 +6,18 @@
 
 1. 進入「營造業線上申請」→「土木包工業登記」→「申領登記」進行申請
     <figure markdown="span">
-    ![Image title](image/22.png){.img-fluid tag=22}
+    ![Image title](../image/22.png){.img-fluid tag=22}
     <figcaption>依圖片進入申請系統</figcaption>
     </figure>
 
 2. 點選「帶入籌設許可資料」按鈕進行原核准案件帶入
     <figure markdown="span">
-    ![Image title](image/23.png){.img-fluid tag=23}
+    ![Image title](../image/23.png){.img-fluid tag=23}
     <figcaption>點選「帶入籌設許可資料」按鈕進行原核准案件帶入</figcaption>
     </figure>
 3. 許可文號須至原[許可申請](Contractors_Registration.md)頁面取得
     <figure markdown="span">
-    ![Image title](image/20_1.png){.img-fluid tag=20_1}
+    ![Image title](../image/20_1.png){.img-fluid tag=20_1}
     <figcaption>原案件核准後可取得許可文號及日期</figcaption>
     </figure>
 4. 相關系統操作及文件準備工作可參閱[許可申請](Contractors_Registration.md)章節，本章節不重複贅述
@@ -28,7 +28,7 @@
 3、 籃框為第一階段籌設許可已上傳之文件，第二階段仍需上傳<br>
 4、 E1700 公司或商業主管機關核發之登記證明文件需上傳公司主管機關核准登記之文件掃描，一份即可
     <figure markdown="span">
-    ![Image title](image/24.png){.img-fluid tag=24}
+    ![Image title](../image/24.png){.img-fluid tag=24}
     <figcaption>紅框為需新上傳資料，籃框可使用原核准許可附件上傳</figcaption>
     </figure>
 

@@ -10,25 +10,25 @@
 
 1. 進入「新建築執照線上申請書電子化書圖文件送件繳交系統」
     <figure markdown="span">
-    ![Image title](image/8.png){.img-fluid tag=8}
+    ![Image title](../image/8.png){.img-fluid tag=8}
     <figcaption>點選「書圖文件送件繳交系統」</figcaption>
     </figure>
 
 2. 進入「營造業線上申請」→「土木包工業登記」→「籌設許可」進入進行申請
     <figure markdown="span">
-    ![Image title](image/9.png){.img-fluid tag=9}
+    ![Image title](../image/9.png){.img-fluid tag=9}
     <figcaption>依圖片進入申請系統</figcaption>
     </figure>
 
 3. 點選「許可申請」按鈕建立案件
     <figure markdown="span">
-    ![Image title](image/10.png){.img-fluid tag=10}
+    ![Image title](../image/10.png){.img-fluid tag=10}
     <figcaption>點選許可申請按鈕建立案件</figcaption>
     </figure>
 
 4. 登打公司基本資料
     <figure markdown="span">
-    ![Image title](image/11.png){.img-fluid tag=11}
+    ![Image title](../image/11.png){.img-fluid tag=11}
     <figcaption>輸入基本資料</figcaption>
     </figure>
 
@@ -38,7 +38,7 @@
 
 ### 上傳負責人相片，公司大小章及簽名
 <figure markdown="span">
-![Image title](image/12.png){.img-fluid tag=12}
+![Image title](../image/12.png){.img-fluid tag=12}
 <figcaption>上傳負責人相片，公司大小章及簽名，文件格式僅限JPG檔</figcaption>
 </figure>
    
@@ -50,19 +50,19 @@
 
 上傳相片範例
     <figure markdown="span">
-    ![Image title](image/13.png){.img-fluid tag=13}
+    ![Image title](../image/13.png){.img-fluid tag=13}
     <figcaption>正確上傳需完整去除相片多於白邊，且不應影響內容</figcaption>
     </figure>
 
 ### 土木包工業許可申請書列印
 以上營造業基本資料、發起人或合夥人資料、營業計劃完成登打後請至各類書表列印頁面，列印出「CE3：土木包工業許可申請書」，表格內容會將前項登打內容自動帶入表格，不須手動登打， ==請務必使用產出表格簽章用印，以免手動登打誤繕導致與系統資料不一致== 。
     <figure markdown="span">
-    ![Image title](image/14.jpg){.img-fluid tag=14}
+    ![Image title](../image/14.jpg){.img-fluid tag=14}
     <figcaption>列印許可申請書簽名用印</figcaption>
     </figure>
 表格產製後，須由負責人本人於申請書上用大小印並簽名，以及簽署負責人未擔任其他營造業之負責人、專任工程人員或工地主任切結。
     <figure markdown="span">
-    ![Image title](image/15.png){.img-fluid tag=15}
+    ![Image title](../image/15.png){.img-fluid tag=15}
     <figcaption>負責人用公司大小印連同切結並簽名</figcaption>
     </figure>
 
@@ -72,7 +72,7 @@
 ### 土木包工業申請附件上傳
 土木包工業許可申請需上傳文件如圖：
     <figure markdown="span">
-    ![Image title](image/16.png){.img-fluid tag=16}
+    ![Image title](../image/16.png){.img-fluid tag=16}
     <figcaption>依列表要求上傳附件(若與公司實際情形不合之文件可勾選「免檢附」)</figcaption>
     </figure>
 
@@ -88,12 +88,12 @@
 ### 憑證綁定步驟
 綁定憑證時請至畫面右上角，點選帳戶名稱→註冊憑證作業 (如下圖)
     <figure markdown="span">
-    ![Image title](image/17.png){.img-fluid tag=17}
+    ![Image title](../image/17.png){.img-fluid tag=17}
     <figcaption>點選帳戶名稱→註冊憑證作業</figcaption>
     </figure>
 點選新增按鈕可加入數張憑證 (帳戶類型為營造廠可輸入工商憑證卡號)，自然人憑證卡號為卡片上條碼下方之英文2位 + 數字14碼之格式，輸入後點擊儲存即可於送件時進行憑證簽章。
     <figure markdown="span">
-    ![Image title](image/18.png){.img-fluid tag=18}
+    ![Image title](../image/18.png){.img-fluid tag=18}
     <figcaption>可新增多張憑證</figcaption>
     </figure>
 

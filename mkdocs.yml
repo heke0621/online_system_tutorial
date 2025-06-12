@@ -50,22 +50,23 @@ nav:
  - 關於線上申請系統: index.md
  - 如何註冊線上申請系統: register.md
  - 土木包工業線上申請: 
-    - 籌設許可申請: Contractors_Registration.md
-    - 許可期限展延申請: Contractors_Registration_2.md
-    - 申領登記: receive_manual.md
-    - 變更資本額申請: change_capital.md
-    - 變更地址申請: change_address.md
-    - 縣市移轉(跨縣市變更地址)申請: change_city.md
-    - 變更負責人申請: change_person.md
-    - 變更印鑑申請: change_stamp.md
-    - 變更公司名稱申請: change_name.md
-    - 變更公司組織申請: change_organization.md
-    - 手冊或證書補發(續發)申請: receive_manual_2.md
-    - 複查申請: review.md
-    - 停業、歇業、復業申請: stop_work.md
+    - 籌設許可申請: Civil_Contracting_Industry/Contractors_Registration.md
+    - 許可期限展延申請: Civil_Contracting_Industry/Contractors_Registration_2.md
+    - 申領登記: Civil_Contracting_Industry/receive_manual.md
+    - 變更資本額申請: Civil_Contracting_Industry/change_capital.md
+    - 變更地址申請: Civil_Contracting_Industry/change_address.md
+    - 縣市移轉(跨縣市變更地址)申請: Civil_Contracting_Industry/change_city.md
+    - 變更負責人申請: Civil_Contracting_Industry/change_person.md
+    - 變更印鑑申請: Civil_Contracting_Industry/change_stamp.md
+    - 變更公司名稱申請: Civil_Contracting_Industry/change_name.md
+    - 變更公司組織申請: Civil_Contracting_Industry/change_organization.md
+    - 手冊或證書補發(續發)申請: Civil_Contracting_Industry/receive_manual_2.md
+    - 複查申請: Civil_Contracting_Industry/review.md
+    - 停業、歇業、復業申請: Civil_Contracting_Industry/stop_work.md
  - 綜合營造業線上申請:
-    - 籌設許可申請: Contractors_Registration_3.md
-    - 許可期限展延申請: Contractors_Registration_4.md
+    - 籌設許可申請: General_Construction/Contractors_Registration.md
+    - 許可期限展延申請: General_Construction/Contractors_Registration_2.md
+    - 申領登記: General_Construction/receive_manual.md
  - 專業營造業線上申請:
-     - 籌設許可申請: Contractors_Registration_3.md
+    - 籌設許可申請: Specialized_Construction/Contractors_Registration.md
     

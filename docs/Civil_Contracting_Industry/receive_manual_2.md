@@ -4,26 +4,26 @@
 
 1. 進入「營造業線上申請」→「土木包工業登記」→「證冊補發」進行申請
     <figure markdown="span">
-    ![Image title](image/37.png){.img-fluid tag=37}
+    ![Image title](../image/37.png){.img-fluid tag=37}
     <figcaption>依圖片進入申請系統，點選紅框證冊補發申請建立案件</figcaption>
     </figure>
 
 2. 選擇申請之項目<br>
 <span style="color:red; font-weight:bold;">若營造業證書或手冊遺失需申請重新補發(可同時申請補發)，請選擇「證冊補發」</span><br>
     <figure markdown="span">
-    ![Image title](image/38.png){.img-fluid tag=38}
+    ![Image title](../image/38.png){.img-fluid tag=38}
     <figcaption>「證冊補發」需登報掛失，手冊續發則免</figcaption>
     </figure>
 
 3. 證冊補發應檢附之項目
     <figure markdown="span">
-    ![Image title](image/39.png){.img-fluid tag=39}
+    ![Image title](../image/39.png){.img-fluid tag=39}
     <figcaption>需上傳登報之掃描正本</figcaption>
     </figure>
 
 4. 續發工程手冊應檢附之項目
     <figure markdown="span">
-    ![Image title](image/40.png){.img-fluid tag=40}
+    ![Image title](../image/40.png){.img-fluid tag=40}
     <figcaption>續發工程手冊可不上傳承攬手冊掃描(依各縣市機關收件標準檢附)，惟手冊本冊包含所有附冊須於送件後，一並送至登記所屬縣市政府辦理手冊續發</figcaption>
     </figure>
 

@@ -2,19 +2,19 @@
 
 1. 進入「營造業線上申請」→「土木包工業登記」→「變更登記」進行申請
     <figure markdown="span">
-    ![Image title](image/25.png){.img-fluid tag=25}
+    ![Image title](../image/25.png){.img-fluid tag=25}
     <figcaption>依圖片進入申請系統</figcaption>
     </figure>
 
 2. 點選「變更登記」按鈕進行申請
     <figure markdown="span">
-    ![Image title](image/32.png){.img-fluid tag=32}
+    ![Image title](../image/32.png){.img-fluid tag=32}
     <figcaption>點選「變更負責人」按鈕進行申請</figcaption>
     </figure>
 
 3. 變更負責人申請上傳項目
     <figure markdown="span">
-    ![Image title](image/33.png){.img-fluid tag=33}
+    ![Image title](../image/33.png){.img-fluid tag=33}
     <figcaption>「變更負責人」需上傳資料</figcaption>
     </figure>
 
