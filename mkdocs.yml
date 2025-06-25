@@ -46,6 +46,14 @@ plugins:
   - search
   - tags
 
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:heke0621@gmail.com
+      name: 如需勘誤內容，請聯繫作者
+
+
+
 nav:
  - 關於線上申請系統: index.md
  - 如何註冊線上申請系統: register.md
@@ -74,6 +82,8 @@ nav:
     - 縣市移轉(跨縣市變更地址)申請: General_Construction/change_city.md
     - 變更負責人申請: General_Construction/change_person.md
     - 變更印鑑申請: General_Construction/change_stamp.md
+    - 變更公司名稱申請: General_Construction/change_name.md
+    - 變更公司組織申請: General_Construction/change_organization.md
  - 專業營造業線上申請:
     - 籌設許可申請: Specialized_Construction/Contractors_Registration.md
     

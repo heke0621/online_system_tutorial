@@ -1,6 +1,6 @@
 ### 變更公司名稱申請步驟
 
-1. 進入「營造業線上申請」→「土木包工業登記」→「變更登記」進行申請
+1. 進入「營造業線上申請」→「綜合營造業登記」→「變更登記」進行申請
     <figure markdown="span">
     ![Image title](../image/25.png){.img-fluid tag=25}
     <figcaption>依圖片進入申請系統</figcaption>
