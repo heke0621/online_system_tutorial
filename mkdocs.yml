@@ -1,5 +1,5 @@
 site_name: 營造業線上申請系統指南
-site_url: https://mydomain.org/online_system_tutorial/
+site_url: https://heke0621.github.io/online_system_tutorial/
 theme:
   name: material
   language: zh-Hant
@@ -11,6 +11,7 @@ theme:
     - navigation.instant.progress
     - navigation.instant.preview
     - navigation.tracking
+    - navigation.top
 extra_css:
   - 'css/custom.css'
   - 'css/simpleLightbox.min.css'
