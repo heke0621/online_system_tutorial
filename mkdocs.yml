@@ -47,6 +47,7 @@ plugins:
   - search
   - tags
 
+
 extra:
   social:
     - icon: fontawesome/solid/paper-plane
