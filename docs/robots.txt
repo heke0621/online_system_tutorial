@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://heke0621.github.io/online_system_tutorial/sitemap.xml
