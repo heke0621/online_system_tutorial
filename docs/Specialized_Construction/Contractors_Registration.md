@@ -1,3 +1,5 @@
+  <meta name="robots" content="noindex" />
+
 ### 專業營造業籌設許可相關規定
 <span style="font-weight:bold;">營造業法第三條第四點相關規定</span>，主管單位為中央主管機關（內政部國土管理署），並由中央主管機關委託各縣市政府代辦登記管理業務。<br>
 <span style="font-weight:bold;">專業營造業設立資本額及及其專任工程人員相關規定請參閱[專業營造業之資本額及其專任工程人員資歷人數標準表](https://glrs.moi.gov.tw/LawContent.aspx?id=FL031531)</span><br>

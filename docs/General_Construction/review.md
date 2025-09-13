@@ -1,3 +1,5 @@
+  <meta name="robots" content="noindex" />
+
 ### 複查申請相關規定
 <span style="font-weight:bold;">營造業法第17條規定：</span><br>
 &emsp;&emsp;1、營造業自領得營造業登記證書之日起，每滿五年應申請複查，中央主管機關或直轄市、縣（市）主管機關並得隨時抽查之；受抽查者，不得拒絕、妨礙或規避。<br>

@@ -1,3 +1,4 @@
+  <meta name="robots" content="noindex" />  
 
 <span style="font-weight:bold;">營造業法第14條規定：</span><br>
 &emsp;&emsp;「營造業於領得許可證件後，應於六個月內辦妥公司或商業登記；屆期未辦妥者，由中央主管機關或直轄市、縣(市)主管機關廢止其許可。但有正當理由者，得申請延期一次，並不得超過三個月。」

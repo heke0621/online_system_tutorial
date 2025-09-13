@@ -1,5 +1,5 @@
 
-  <meta name="robots" content="noindex, nofollow" />
+  <meta name="robots" content="noindex" />
 
 
 ### 變更地址申請步驟

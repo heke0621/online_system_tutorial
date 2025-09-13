@@ -1,3 +1,5 @@
+  <meta name="robots" content="noindex" />
+
 <span style="color:red; font-weight:bold;">本申請為辦理未變更負責人或專任工程人員，而需變更公司印鑑或負責人、專任工程人員印鑑，如需變更負責人或專任工程人員則不需額外辦理變更印鑑。</span><br>
 
 ### 變更印鑑申請步驟

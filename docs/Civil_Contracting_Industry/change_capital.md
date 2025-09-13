@@ -1,3 +1,5 @@
+  <meta name="robots" content="noindex" 所
+
 ### 土木包工業資本額相關規定
 營造業法施行細則第六條規定：<br>
 &emsp;&emsp;本法第十條第二項所定土木包工業之資本額為新臺幣一百萬元以上。

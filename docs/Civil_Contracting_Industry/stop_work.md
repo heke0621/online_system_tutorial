@@ -1,3 +1,5 @@
+  <meta name="robots" content="noindex" />
+
 ### 變更營業狀態申請相關規定
 <span style="font-weight:bold;">營造業法第20條規定：</span><br>
 &emsp;&emsp;1、營造業 ==自行停業== 或受停業處分時，應將其營造業登記證書及承攬工程手冊送繳中央主管機關或直轄市、縣（市）主管機關註記後發還之；==復業時，亦同。==<br>

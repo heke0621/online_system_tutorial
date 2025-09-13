@@ -1,3 +1,5 @@
+  <meta name="robots" content="noindex" />
+
 ### 晉升等級相關規定
 
 <span style="font-weight:bold;">營造業法第7條第5項規定：</span><br>

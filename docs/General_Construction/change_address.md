@@ -1,3 +1,5 @@
+  <meta name="robots" content="noindex" />
+
 ### 變更地址申請步驟
 
 <span style="color:red; font-weight:bold;">變更地址僅限於「同縣市內地址變更」，若從外縣市移入，或移出至外縣市，請辦理[「縣市移轉」](change_city.md)</span>

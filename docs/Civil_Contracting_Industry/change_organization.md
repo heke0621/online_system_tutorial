@@ -1,3 +1,5 @@
+  <meta name="robots" content="noindex" />
+
 <span style="color:red; font-weight:bold;">變更組織類型僅指變更公司類型，如：獨資轉換為有限公司等，不包含由土木包工業變更為綜合營造業，如需變更為綜合營造業，須辦理土木包工業歇業後，另行辦理設立綜合營造業籌設許可。</span><br>
 
 ### 變更公司組織類型申請步驟

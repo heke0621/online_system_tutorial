@@ -1,3 +1,5 @@
+  <meta name="robots" content="noindex" />
+
 ### 專任工程人員相關規定
 <span style="font-weight:bold;">營造業法第40條規定：</span><br>
 &emsp;&emsp;1、營造業之專任工程人員離職或因故不能執行業務時，營造業應即報請中央主管機關備查，並應於三個月內依規定另聘之。<br>

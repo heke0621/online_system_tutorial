@@ -1,3 +1,5 @@
+  <meta name="robots" content="noindex" />
+
 <span style="color:red; font-weight:bold;">本申請為辦理從外縣市移入，或移出至外縣市之變更地址案，辦理移出者，請向欲移入機關辦理辦理手冊註記及換領證書事宜。</span>
 
 ### 變更地址申請步驟
