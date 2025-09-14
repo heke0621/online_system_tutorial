@@ -1,4 +1,4 @@
-  <meta name="robots" content="noindex" />
+
 
 ### 複查申請相關規定
 <span style="font-weight:bold;">營造業法第17條規定：</span><br>

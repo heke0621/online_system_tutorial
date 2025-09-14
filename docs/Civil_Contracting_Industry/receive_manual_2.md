@@ -1,4 +1,4 @@
-  <meta name="robots" content="noindex" />
+
 
 <span style="color:red; font-weight:bold;">有關於工程承攬手冊或土木包工業登記證書遺失，需進行登報作廢，始得辦理手冊或證書補發，以免遺失之文件遭人冒用</span><br>
 

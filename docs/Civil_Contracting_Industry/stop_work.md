@@ -1,4 +1,4 @@
-  <meta name="robots" content="noindex" />
+
 
 ### 變更營業狀態申請相關規定
 <span style="font-weight:bold;">營造業法第20條規定：</span><br>

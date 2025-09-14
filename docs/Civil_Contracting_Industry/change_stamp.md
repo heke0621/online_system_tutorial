@@ -1,4 +1,4 @@
-  <meta name="robots" content="noindex" />
+
 
 <span style="color:red; font-weight:bold;">本申請為辦理未變更負責人，而需變更公司印鑑或負責人印鑑，如需變更負責人則不需額外辦理變更負責人印鑑。</span><br>
 
