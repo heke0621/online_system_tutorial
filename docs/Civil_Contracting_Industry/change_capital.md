@@ -1,4 +1,4 @@
-  <meta name="robots" content="noindex" 所
+  <meta name="robots" content="noindex">
 
 ### 土木包工業資本額相關規定
 營造業法施行細則第六條規定：<br>
