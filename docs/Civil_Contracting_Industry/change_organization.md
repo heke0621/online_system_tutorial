@@ -17,7 +17,11 @@ tags:
     <figcaption>依圖片進入申請系統</figcaption>
     </figure>
 
-2. 點選「變更組織」按鈕，選擇變更組織項目進行申請
+2. 有關進行「變更組織」時，因組織變更涉及名稱變更，如：「丁丁有限公司」因組織變更，故名稱變更為「丁丁股份有限公司」，請於選擇變更項目時請同時勾選「名稱變更」，才可於案件變更時同步更改公司名稱，又或公司進行合併或分割後涉及名稱變更者也需勾選「名稱變更」選項。
+    <figure markdown="span">
+    ![Image title](../image/107.png){.img-fluid tag=107}
+    <figcaption>「變更組織」需併同勾選其餘需變更相關項目</figcaption>
+    </figure>
 3. 變更名稱申請上傳項目
     <figure markdown="span">
     ![Image title](../image/36.png){.img-fluid tag=36}
