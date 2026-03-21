@@ -37,5 +37,10 @@ tags:
     <figcaption>點選「許可展延申請」按鈕進行案件展延</figcaption>
     </figure>
 
+### 申請土木包工業籌設繳納規費
 
+- 申請土木包工業展延許可不收費。
+
+!!! warning
+    - 相關收費標準請參閱[營造業規費收費標準](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070170)
     

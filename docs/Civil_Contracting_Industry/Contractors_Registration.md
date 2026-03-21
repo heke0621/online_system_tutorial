@@ -119,6 +119,9 @@ tags:
 
     若送件人為受託人，則會多額外一步驟，需額外簽署委託書；請列印出來請委託人用印，受託人用印後掃描上傳至文件列表，方可進行送件。
 
+### 籌設許可申請注意事項
+依營造業法[第13條及第15條第4款規定](https://law.moj.gov.tw/LawClass/LawSearchContent.aspx?pcode=D0070110&norge=13,15)，於申請籌設許可階段，本法第十三條第二項所定申請書應記載事項有變更時，<span style="color:red; font-weight:bold;">應於第二階段申領證冊後才可申請變更</span>，倘若於第二階段申領證冊前變更上開事項內容，<span style="color:red; font-weight:bold;">當次籌設許可將作廢重來</span>。
+
 ### 申請土木包工業籌設繳納規費
 
 - 申請土木包工業許可或變更許可每案新臺幣六百元。

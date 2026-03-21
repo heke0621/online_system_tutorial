@@ -25,7 +25,7 @@ tags:
 2. 點選「自行停業申請」按鈕進行申請，輸入登記證號[(格式參考)](change_capital.md)以及負責人身分證(辦理歇業登記操作畫面亦同)
     <figure markdown="span">
     ![Image title](../image/48.png){.img-fluid tag=48}
-    <figcaption>自行停業級歇業申請不得與其他變更案併辦</figcaption>
+    <figcaption>自行停業及歇業申請可與技師離職案併辦</figcaption>
     </figure>
 3. 輸入工商主管機關申報核備之停業日期(或歇業日期)，並略述其原因
     <figure markdown="span">

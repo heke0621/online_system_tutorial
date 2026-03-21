@@ -10,6 +10,8 @@ tags:
    - 變更營業狀態
 ---
 
+
+
 ### 變更營業狀態申請相關規定
 <span style="font-weight:bold;">營造業法第20條規定：</span><br>
 &emsp;&emsp;1、營造業 ==自行停業== 或受停業處分時，應將其營造業登記證書及承攬工程手冊送繳中央主管機關或直轄市、縣（市）主管機關註記後發還之；==復業時，亦同。==<br>
@@ -24,7 +26,7 @@ tags:
 2. 點選「自行停業申請」按鈕進行申請，輸入登記證號[(格式參考)](change_capital.md)以及負責人身分證(辦理歇業登記操作畫面亦同)
     <figure markdown="span">
     ![Image title](../image/48.png){.img-fluid tag=48}
-    <figcaption>自行停業級歇業申請不得與其他變更案併辦</figcaption>
+    <figcaption>自行停業及歇業申請不得與其他變更案併辦</figcaption>
     </figure>
 3. 輸入工商主管機關申報核備之停業日期(或歇業日期)，並略述其原因
     <figure markdown="span">
@@ -55,6 +57,12 @@ tags:
     ![Image title](../image/52.png){.img-fluid tag=52}
     <figcaption>申請復業可合併複查申請或其他變更案一同辦理</figcaption>
     </figure>
+
+    !!! warning
+
+        - 若於<span style="color:red; font-weight:bold;">營造業登記停業期間</span>，經濟部登記事項有變更時，需於<span style="color:red; font-weight:bold;">營造業復業時併同辦理變更</span>。
+        - 若於<span style="color:red; font-weight:bold;">營造業登記停業期間</span>，複查期限逾期，需於<span style="color:red; font-weight:bold;">營造業復業時併同辦理複查換證</span>。
+
 2. 復業申請與前項申請項目相同，列印系統產出之變更登記申請書，由負責人簽名並用印後後續掃描上傳，並且依文件列表上傳商業主管機關核備之復業函文及其他相關文件。
     - 如辦理復業申請時登記證書或承攬手冊遺失者，須於復業申請核准後，另行辦理[證冊補發](receive_manual_2.md)。
     <figure markdown="span">
@@ -72,3 +80,12 @@ tags:
 憑證綁定步驟與[許可申請](Contractors_Registration.md)送件流程相同，送件人皆需以自然人憑證進行簽章送件，若送件人為受託人，需額外簽署委託書；請列印出來請委託人用印，受託人用印後掃描上傳至文件列表，方可進行送件。<br>
 
 線上案件送件成功後，請依相關規定辦理。
+
+### 申請土木包工業營業狀態變更規費
+
+- 申請土木包工業停業每案新臺幣四百元整，其中項目包含土木包工業停業登記規費新臺幣兩百整、審查費新臺幣兩百元整。
+- 申請土木包工業復業每案新臺幣一千四百元整，其中項目包含土木包工業復業登記規費新臺幣一千二百整、審查費新臺幣兩百元整。
+- 申請土木包工業歇業無須繳納規費。
+
+!!! warning
+    - 相關收費標準請參閱[營造業規費收費標準](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070170)

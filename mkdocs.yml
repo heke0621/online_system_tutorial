@@ -12,6 +12,28 @@ theme:
     - navigation.instant.preview
     - navigation.tracking
     - navigation.top
+
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
 extra_css:
   - 'css/custom.css'
   - 'css/simpleLightbox.min.css'
@@ -71,9 +93,9 @@ nav:
     - 變更地址申請: Civil_Contracting_Industry/change_address.md
     - 縣市移轉(跨縣市變更地址)申請: Civil_Contracting_Industry/change_city.md
     - 變更負責人申請: Civil_Contracting_Industry/change_person.md
-    - 變更印鑑申請: Civil_Contracting_Industry/change_stamp.md
+    - 變更印鑑(公司、負責人)申請: Civil_Contracting_Industry/change_stamp.md
     - 變更公司名稱申請: Civil_Contracting_Industry/change_name.md
-    - 變更公司組織申請: Civil_Contracting_Industry/change_organization.md
+    - 變更公司組織(營業項目分割、合併、類型)申請: Civil_Contracting_Industry/change_organization.md
     - 手冊或證書補發(續發)申請: Civil_Contracting_Industry/receive_manual_2.md
     - 複查申請: Civil_Contracting_Industry/review.md
     - 停業、歇業、復業申請: Civil_Contracting_Industry/stop_work.md
