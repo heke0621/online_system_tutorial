@@ -25,3 +25,18 @@ a.boxedThumb:hover {
   transform: scale(1.05);
   z-index: 5;
 }
+
+.notice-box {
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 2em;
+  border-radius: 4px;
+  background-color: #f0f0f0;
+  color: #000;
+}
+
+[data-md-color-scheme="slate"] .notice-box {
+  background-color: #2a2a2a;
+  color: #f0f0f0;
+}

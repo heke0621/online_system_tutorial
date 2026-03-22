@@ -63,16 +63,25 @@ tags:
  - 如系統顯示公司類型不符之問題（股份有限公司顯示為有限公司等...），請洽營造業主管機關縣市政府協助統一請系統廠商更正
  - 如負責人戶籍地址、專任工程人員戶籍地址、公司合夥人變更、公司章程變更等，無涉及[營造業法第16條](https://law.moj.gov.tw/LawClass/LawSearchContent.aspx?pcode=D0070110&norge=15,16)需報備項目者，<span style="color:red; font-weight:bold;">則不需向營造業主管機關縣市政府進行報備</span>
 
+### 竣工註記(業績登記)和逐案簽證能在線上申報嗎?
+
+目前竣工註記和逐案簽證都不能在線上申報，未來內政部國土署將開發營造業數位承攬手冊，該兩項業務採作線上申報日期指日可待，以下提供該兩項業務收費標準。
+
+| 申辦項目      | 收費標準                          |
+| :---------: | :----------------------------------: |
+|竣工註記(業績登記)|1、工程完工總價未達新台幣2,250萬每案收費新台幣400元整<br>2、工程完工總價大於新台幣2,250萬且小於新台幣7,500萬，每案收費新台幣600元整<br>3、工程完工總價大於新台幣7,500萬，每案收費新台幣800元整|
+|逐案簽證|每案收費新臺幣1,100元整，其中項目包含逐案簽證規費新臺幣900元整及審查費新臺幣200元整(若申報多案，則只收一次審查費)。
+
 ### 以上都沒有我遇到的問題怎麼辦？？？
 
  - 有關於系統相關問題請洽系統維護廠商「瑪力資訊股份有限公司」客服專線：
-<div style="text-align: center; background-color: #f0f0f0; padding: 10px; font-weight: bold; color: black; font-size: 2em;">
+<div class="notice-box">
   (02)2748-5205
 </div>
 
  - 有關於文件準備相關問題，以及案件送件流程等相關問題，請逕洽各營造業主管機關縣市政府。
  - 有關於本網站有相關問題或意見想反應，歡迎來信 陳先生(台北市政府)承辦 指教。
-<div style="text-align: center; background-color: #f0f0f0; padding: 10px; font-weight: bold; color: black; font-size: 2em;">
+<div class="notice-box">
   <strong><a href="mailto:heke0621@gmail.com?subject=營造業線上指南系統相關問題">heke0621@gmail.com</a></strong>
 </div>
  

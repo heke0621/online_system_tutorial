@@ -34,6 +34,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+dev_addr: 127.0.0.1:8000
 extra_css:
   - 'css/custom.css'
   - 'css/simpleLightbox.min.css'
@@ -109,9 +110,9 @@ nav:
     - 變更地址申請: General_Construction/change_address.md
     - 縣市移轉(跨縣市變更地址)申請: General_Construction/change_city.md
     - 變更負責人申請: General_Construction/change_person.md
-    - 變更印鑑申請: General_Construction/change_stamp.md
+    - 變更印鑑(公司、負責人、專任工程人員)申請: General_Construction/change_stamp.md
     - 變更公司名稱申請: General_Construction/change_name.md
-    - 變更公司組織申請: General_Construction/change_organization.md
+    - 變更公司組織(營業項目分割、合併、類型)申請: General_Construction/change_organization.md
     - 手冊或證書補發(續發)申請: General_Construction/receive_manual_2.md
     - 複查申請: General_Construction/review.md
     - 停業、歇業、復業申請: General_Construction/stop_work.md
@@ -121,6 +122,7 @@ nav:
     - 申領登記: Specialized_Construction/receive_manual.md
     - 變更專任工程人員(包含技師因故不能執行業務報請備查): Specialized_Construction/change_engineer.md
     - 變更專業工程項目登記: Specialized_Construction/change_project.md
+    - 專業營造業收費項目總表: Specialized_Construction/other_fee.md
  - 淨值申報線上申請: civ100m.md
  - 常見問題排解: faq.md
   

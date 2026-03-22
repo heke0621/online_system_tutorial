@@ -15,3 +15,11 @@ tags:
 #### 綜合營造業許可展延申請步驟
 
 - 有關許可展延相關步驟，因流程相似，請參閱[土木包工業許可展延申請](../Civil_Contracting_Industry/Contractors_Registration_2.md)
+
+### 申請綜合營造業籌設許可展延繳納規費
+
+- 申請綜合營造業展延許可不收費。
+
+!!! warning
+    - 相關收費標準請參閱[營造業規費收費標準](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070170)
+    

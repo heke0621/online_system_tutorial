@@ -52,3 +52,4 @@ tags:
 
 !!! warning
     - 相關收費標準請參閱[營造業規費收費標準](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070170)
+    - 若多項業務併辦，則審查費只會收一次。

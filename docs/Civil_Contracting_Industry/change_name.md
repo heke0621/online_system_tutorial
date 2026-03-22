@@ -10,7 +10,7 @@ tags:
 !!! warning
 
     - 若於<span style="color:red; font-weight:bold;">營造業登記停業期間</span>，經濟部登記事項有變更時，則於<span style="color:red; font-weight:bold;">營造業復業時併同辦理變更</span>即可。
-    - 若辦理變更公司名稱則不須另案申請變更印鑑。
+    - 若辦理變更公司名稱則不須另案申請變更公司印鑑。
 
 ### 變更公司名稱申請步驟
 
@@ -39,3 +39,4 @@ tags:
 
 !!! warning
     - 相關收費標準請參閱[營造業規費收費標準](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070170)
+    - 若多項業務併辦，則審查費只會收一次。

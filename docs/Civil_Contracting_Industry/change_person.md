@@ -10,7 +10,8 @@ tags:
 
 !!! warning
 
-    若於<span style="color:red; font-weight:bold;">營造業登記停業期間</span>，經濟部登記事項有變更時，則於<span style="color:red; font-weight:bold;">營造業復業時併同辦理變更</span>即可。
+    - 若於<span style="color:red; font-weight:bold;">營造業登記停業期間</span>，經濟部登記事項有變更時，則於<span style="color:red; font-weight:bold;">營造業復業時併同辦理變更</span>即可。
+    - 辦理變更負責人時印鑑變更已含在申請項目內，無須另外勾選「變更印鑑」
 
 ### 變更負責人申請步驟
 
@@ -31,6 +32,7 @@ tags:
     ![Image title](../image/33.png){.img-fluid tag=33}
     <figcaption>「變更負責人」需上傳資料</figcaption>
     </figure>
+    - 有關辦理變更負責人時，若原辦公室登記租約已到期，則需另外檢附重新公證之租賃契約，以及須重新上傳署名新負責人辦公室登記之合法房屋登記等證明文件，若合約尚未到期則需重新上傳登記原負責人署名之辦公室租賃契約及原合法房屋登記等證明文件即可。
 
     !!!note
         依據內政部113年1月19日發布之[法規命令](https://www.moi.gov.tw/News_Content.aspx?n=145&s=312758)，放寬辦理負責人及印鑑申請變更時，原負責人須具名申請及須加蓋原負責人印鑑之規定，以達簡政便民並有利營造業辦理上開變更項目之申請。
@@ -47,3 +49,4 @@ tags:
 
 !!! warning
     - 相關收費標準請參閱[營造業規費收費標準](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0070170)
+    - 若多項業務併辦，則審查費只會收一次。
