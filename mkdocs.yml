@@ -71,6 +71,7 @@ plugins:
   - search
   - tags
   - social:
+  
       #cards_layout_dir: layouts
       cards_layout: default
       cards_layout_options:
@@ -80,7 +81,10 @@ plugins:
         description: 內政部國土署114年度營造業登記線上化系統操作指南
       #debug: true
 
+extra:
+  generator: false
 
+copyright: Copyright &copy;  2026 CHEN YU AN，All rights reserved.
 
 
 nav:
